@@ -7,5 +7,5 @@
 
 **Thoughts:** i know the basics of html css and some basic react therefore directly jumped to hooks part i have basic understanding of react but want to be better at it. hitesh's video was about useState , useRef and useEffect. understood the concept really well.
 
-**Link to work:**
+**Link to work:**https://password-generator0x.netlify.app
 
