@@ -9,3 +9,12 @@
 
 **Link to work:** https://password-generator0x.netlify.app
 
+### Day 2: January 08, 2024 
+
+
+**Today's Progress**: tried to build a portfolio website failed miserably.
+
+**Thoughts:**  today i tried to build my own portfolio website thought i could do it without watching any tutorials and taking much help from youtube un general but failed miserably, but still learned some tailwind css , before this i only used to use raw css now trying to integrate tailwind in my learning environment. not going to give up on my portfolio though going to make it better evry day and work on it some more.  
+
+**Link to work:** no link today!
+
