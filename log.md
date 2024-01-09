@@ -18,3 +18,12 @@
 
 **Link to work:** no link today!
 
+### Day 3: January 09, 2024 
+
+
+**Today's Progress**: build currency converter a mini project for custom hooks understanding in react.
+
+**Thoughts:**  build a currency converter app with the help of hitesh chaudhary's tutorial about custom hooks, he's a great teacher👍 
+
+**Link to work:** https://currency-converter-0x.netlify.app/
+
