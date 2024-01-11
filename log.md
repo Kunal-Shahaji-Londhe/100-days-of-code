@@ -27,3 +27,10 @@
 
 **Link to work:** https://currency-converter-0x.netlify.app/
 
+### Day 4: January 10, 2024 
+
+
+**Today's Progress**: understood routing in react.
+
+**Thoughts:**  build a project to implement routing in react using react-router-dom , it was not that complicated but still was good concept.  
+
