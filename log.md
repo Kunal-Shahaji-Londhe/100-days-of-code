@@ -34,3 +34,14 @@
 
 **Thoughts:**  build a project to implement routing in react using react-router-dom , it was not that complicated but still was good concept.  
 
+
+### Day 5: January 11, 2024 
+
+
+**Today's Progress**: build two project on context api in react.
+
+**Thoughts:**  context api in react is very complex topic and it was pretty challenging but hitesh chaudhary's 
+tutorial was really great, he broke down the concept very well for beginners and made it less complex, overall understood the theory but might need more practice on this topic.
+
+**Link to work:** go to Learning react repository!
+
