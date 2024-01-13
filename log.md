@@ -45,3 +45,12 @@ tutorial was really great, he broke down the concept very well for beginners and
 
 **Link to work:** go to Learning react repository!
 
+### Day 6: January 12, 2024 
+
+
+**Today's Progress**: build a project using redux toolkit in react.
+
+**Thoughts:** created a todo project using redux toolkit , to understand flow of redux toolkit. it is pretty complex struggled to understand but i will practise on it.
+
+**Link to work:** go to Learning react repository!
+
