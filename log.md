@@ -54,3 +54,14 @@ tutorial was really great, he broke down the concept very well for beginners and
 
 **Link to work:** go to Learning react repository!
 
+### Day 7: January 13, 2024 
+
+
+**Today's Progress**: Revised all the projects that i built in the past few days.
+
+**Thoughts:** keeping consistency is hard, i always feel like lets rest today , but i know me and if i would take off today
+ then i might take it tomorrow and the chain will just continue therefore trying to not take any rest days and maintain my streak.
+
+**Link to work:** go to Learning react repository!
+
+
