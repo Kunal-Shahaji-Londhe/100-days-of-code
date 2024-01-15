@@ -64,4 +64,13 @@ tutorial was really great, he broke down the concept very well for beginners and
 
 **Link to work:** go to Learning react repository!
 
+### Day 8: January 15, 2024 
+
+
+**Today's Progress**: built my own Task manager app from scratch!
+
+**Thoughts:** today i felt proud of myself, not a big app but i built something from scratch this feeling is good! 
+
+**Link to work:** https://taskflow-ox.netlify.app/
+
 
