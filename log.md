@@ -74,3 +74,13 @@ tutorial was really great, he broke down the concept very well for beginners and
 **Link to work:** https://taskflow-ox.netlify.app/
 
 
+### Day 9: January 17, 2024 
+
+
+**Today's Progress**: used shadcn!
+
+**Thoughts:**  working on my own personal project, trying to build Rest api for it, therefore only new learning is shadcn.
+
+**Link to work:** no
+
+
