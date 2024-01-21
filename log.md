@@ -92,4 +92,36 @@ tutorial was really great, he broke down the concept very well for beginners and
 
 **Link to work:** no
 
+### Day 11: January 19, 2024 
+
+
+**Today's Progress**: created product and categories routes for my ecommerce api project!
+
+**Thoughts:**  today created routes to get,post,update,delete products and categories!
+
+**Link to work:** go to my create-ecommerce-api repository.
+
+
+### Day 12: January 20, 2024 
+
+**Today's Progress**: created routes to handle users and learned authentication for my ecommerce api project!
+
+**Thoughts:**  today created routes to get,post,update,delete routes for users, also learnt password hashing , authentication! feeling little overwhelmed..
+
+**Link to work:** go to my create-ecommerce-api repository.
+
+
+### Day 13: January 21, 2024 
+
+**Today's Progress**: build my first nextjs app with typescript,shadcn,sanity and deployed using vercel.
+
+**Thoughts:**  today deployed my blog app project, i was building the project along with my backend project! did not get the best grasp on next js but definitely enjoyed building the project with it, 
+also absolutely loved sanity, and vercel and shadcn, need to work some more on nextjs and typescript...
+
+**Link to work:** blog-ultra.vercel.app
+ 
+you can also go to my BlogUltra repository.
+
+
+
 
