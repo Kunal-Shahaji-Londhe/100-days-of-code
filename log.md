@@ -118,7 +118,7 @@ tutorial was really great, he broke down the concept very well for beginners and
 **Thoughts:**  today deployed my blog app project, i was building the project along with my backend project! did not get the best grasp on next js but definitely enjoyed building the project with it, 
 also absolutely loved sanity, and vercel and shadcn, need to work some more on nextjs and typescript...
 
-**Link to work:** blog-ultra.vercel.app
+**Link to work:** [blog-ultra.vercel.app](https://blog-ultra.vercel.app/)
  
 you can also go to my BlogUltra repository.
 
