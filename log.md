@@ -123,5 +123,14 @@ also absolutely loved sanity, and vercel and shadcn, need to work some more on n
 you can also go to my BlogUltra repository.
 
 
+### Day 14: January 22, 2024 
+
+**Today's Progress**: created routes to handle orders for my ecommerce api project!
+
+**Thoughts:**  today created routes to get,post,update,delete routes for orders..
+
+**Link to work:** go to my create-ecommerce-api repository.
+
+
 
 
