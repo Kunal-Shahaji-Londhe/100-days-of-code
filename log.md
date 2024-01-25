@@ -131,6 +131,22 @@ you can also go to my BlogUltra repository.
 
 **Link to work:** go to my create-ecommerce-api repository.
 
+### Day 15: January 23, 2024 
+
+**Today's Progress**: added image upload feature into api and finally completed api project!
+
+**Thoughts:**  i was building this ecommerce api for last 7 days i guess, was not exactly smooth sailing had errors galore but debugged all of them on to the next task: fetching data to frontend..
+
+**Link to work:** go to my create-ecommerce-api repository.
+
+### Day 16: January 24, 2024 
+
+**Today's Progress**: tried to fetch data into the frontend and handle objects!
+
+**Thoughts:**  tried to fetch data from a joke api and created a random joke generator used a api that returned random hindi jokes and just getting familiar with handling api..
+
+**Link to work:** no
+
 
 
 
