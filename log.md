@@ -147,6 +147,14 @@ you can also go to my BlogUltra repository.
 
 **Link to work:** no
 
+### Day 17: January 27, 2024 
+
+**Today's Progress**: worked on eCommerce frontend and implemented scss and media queries for responsiveness!
+
+**Thoughts:**  I am now feeling like I am wasting too much time but my health was not great , also working on my eCommerce project feels like I am only building project and not getting any learning done but got no choice it is a college project..
+
+**Link to work:** no
+
 
 
 
