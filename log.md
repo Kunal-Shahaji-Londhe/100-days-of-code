@@ -155,6 +155,14 @@ you can also go to my BlogUltra repository.
 
 **Link to work:** no
 
+### Day 18: January 28, 2024 
+
+**Today's Progress**: worked on eCommerce frontend and implemented add to cart functionality and built ui for products and category pages!
+
+**Thoughts:** i am genuinely building and coding everyday for like 4-5 hours but i think this should not count in my 100 days of code going to try and learn new concepts if possible everyday..
+
+**Link to work:** no
+
 
 
 
