@@ -167,7 +167,7 @@ you can also go to my BlogUltra repository.
 
 **Today's Progress:** added fetching products and display them on frontend functionality.
 
-**Thoughts:**felt good to add some functionality to my project..
+**Thoughts:** felt good to add some functionality to my project..
 
 **Link to work:** no
 
