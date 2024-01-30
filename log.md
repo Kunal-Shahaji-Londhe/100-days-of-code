@@ -165,9 +165,17 @@ you can also go to my BlogUltra repository.
 
 ### Day 19: January 29, 2024
 
+**Today's Progress:** added fetching products and display them on frontend functionality.
+
+**Thoughts:**felt good to add some functionality to my project..
+
+**Link to work:** no
+
+### Day 20: January 30, 2024
+
 **Today's Progress:**
 
-**Thoughts:** ..
+**Thoughts:**..
 
 **Link to work:** no
 
