@@ -171,11 +171,19 @@ you can also go to my BlogUltra repository.
 
 **Link to work:** no
 
-### Day 20: January 30, 2024
+### Day 20: February 02, 2024
+
+**Today's Progress:** built responsive login and signup page ui with tailwind!
+
+**Thoughts:** the last two days did not code, was busy with college work and completing my mooc course but today did some coding built ui for login and sign up page for my toy store project, it took too much time to make it responsive but I am learning!..
+
+**Link to work:** no
+
+### Day 21: February 03, 2024
 
 **Today's Progress:**
 
-**Thoughts:**..
+**Thoughts:** ..
 
 **Link to work:** no
 
