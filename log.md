@@ -181,11 +181,20 @@ you can also go to my BlogUltra repository.
 
 ### Day 21: February 03, 2024
 
-**Today's Progress:**
+**Today's Progress:** implemented useNavigate() and api integration in my frontend
 
-**Thoughts:** ..
+**Thoughts:** added navigation of pages also added products and categories api integration, was struggling with context and add to cart functionality going to work on it tomorrow as well..
 
 **Link to work:** no
+
+### Day 22: February 04, 2024
+
+**Today's Progress:**
+
+**Thoughts:**..
+
+**Link to work:** no
+
 
 
 
