@@ -189,9 +189,9 @@ you can also go to my BlogUltra repository.
 
 ### Day 22: February 04, 2024
 
-**Today's Progress:**
+**Today's Progress:** implemented use context heavily!
 
-**Thoughts:**..
+**Thoughts:** added add to cart,search, increment and decrement of no. of products functionalities felt good..
 
 **Link to work:** no
 
