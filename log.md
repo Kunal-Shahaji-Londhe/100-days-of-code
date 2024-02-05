@@ -195,6 +195,15 @@ you can also go to my BlogUltra repository.
 
 **Link to work:** no
 
+### Day 23: February 05, 2024
+
+**Today's Progress:**  spent a lot of time improving ui of my project , also added ui for some new features that were initially not in the project also debugged almost the whole app!
+
+**Thoughts:** spent a lot of time improving ui of my project , also added ui for some new features that were initially not in the project also debugged almost the whole app, need to report about the progress to my project guide and finally there are still few features that i have not completed..
+
+**Link to work:** no
+
+
 
 
 
