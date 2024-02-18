@@ -203,6 +203,14 @@ you can also go to my BlogUltra repository.
 
 **Link to work:** no
 
+### Day 24: February 18, 2024
+
+**Today's Progress:**  added add to wishlist feature also added functionality to signup page!
+
+**Thoughts:** added add to wishlist feature with functionality , also added functionality to signup page meaning now we can create new user from client side and it will be stored in the database!! feeling really terrible that I missed so many days of the challenge I had exams going on but I am trying to work as much time as I can!
+  
+**Link to work:** no
+
 
 
 
