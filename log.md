@@ -211,6 +211,14 @@ you can also go to my BlogUltra repository.
   
 **Link to work:** no
 
+### Day 25: February 19, 2024
+
+**Today's Progress:**  added customer reviews component ui and write your review ui!
+
+**Thoughts:** a lot of time just creating ui of customer reviews and creating form for writing reviews the component is static for now but will make it dynamic in the coming days trying to add all the ui of necessary features at least statically first and then make it dynamic or functional!
+  
+**Link to work:** no
+
 
 
 
